@@ -1,7 +1,6 @@
 <h1 align="center">Hi , I'm Jason Troya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Computer+Science+Student;Improving+my+
-programming;Always+learning+new+things"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;Improving+my+programming;Always+learning+new+things"></a>
 </p>
 
 
@@ -27,7 +26,7 @@ programming;Always+learning+new+things"></a>
 
 <br><br>
 
-- :school: I am a `Student` at [Software Development technology](https://institutotraversari.edu.ec/desarrollo-software/) at [the Instituto Superior Tecnológico Mayor Pedro Traversari.](https://institutotraversari.edu.ec/).
+- :school: I am a `Student` at [Software Development technology](https://institutotraversari.edu.ec/desarrollo-software/) at [Instituto Superior Tecnológico Mayor Pedro Traversari.](https://institutotraversari.edu.ec/).
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
